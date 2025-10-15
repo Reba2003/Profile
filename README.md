@@ -10,4 +10,4 @@ I'm familiar with Solidity
 
 # Connect with me
 [Email](rttsietso@gmail.com)
-[X](rttsietso)
+[X](https://x.com/rttsietso)
