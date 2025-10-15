@@ -3,11 +3,16 @@ Hi, everyone. My name is Rebaone Tsietso. I'm currently studying Bachelor of Sci
 
 # Skills
 Python(Academic)
+
 C++(Academic)
+
 Java(Academic)
+
 I'm also familiar with Object-Oriented Programming and am currently studying Data Structures and Algorithms
+
 I'm familiar with Solidity 
 
 # Connect with me
 Email: rttsietso@gmail.com
+
 [X](https://x.com/rttsietso)
