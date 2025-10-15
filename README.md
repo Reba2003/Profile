@@ -9,5 +9,5 @@ I'm also familiar with Object-Oriented Programming and am currently studying Dat
 I'm familiar with Solidity 
 
 # Connect with me
-[Email](rttsietso@gmail.com)
+Email: rttsietso@gmail.com
 [X](https://x.com/rttsietso)
